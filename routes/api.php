@@ -32,4 +32,4 @@ Route::post('exercicio/quatro',
 
  Route::post('exercicio/cinco' ,[ExercicioCincoController::class, 'verificar']);
 
- 
+ Route::post('exercicio/seis' ,[ExercicioSeisController::class, 'idade']);
