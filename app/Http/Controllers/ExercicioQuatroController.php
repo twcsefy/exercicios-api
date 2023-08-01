@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class ExercicioTres extends Controller
+class ExercicioQuatroController extends Controller
 {
     //
 }
