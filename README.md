@@ -23,6 +23,22 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 ```
 cd exercicios-api
 ```
+3.  Iniciando o Repositorio
+```
+composer update
+```
+
+4. Copiando o .env do exemplo
+```
+copy .env.example .env
+```
+
+5. Acessar o Visual Studio Code
+```
+
+code .
+```
+# Insomnia 
 
 ## Licença
 
